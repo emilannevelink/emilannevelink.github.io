@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website! Please take some time to look through my publications, talks, or courses I have taught. Or, download my [CV](http://emilannevelink.github.io/files/cv_emilannevelink.pdf)
+Welcome to my academic website! Please take some time to look through my publications, talks, or courses I have taught. Or, download my [CV](http://emilannevelink.github.io/files/cv_emilannevelink.pdf).
 
 What am I up to?
 ======
